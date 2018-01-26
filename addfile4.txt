@@ -1,4 +1,5 @@
 第一次修改addfile4.txt，commit没有提交push
 local add line in addfile4
 
-Create a new branch is quick & simple.
+Create a new branch is quick and simple.
+
