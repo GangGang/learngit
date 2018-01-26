@@ -1,4 +1,4 @@
 ﻿在线添加文件:addfileonline.txt
 
-Create a branch quick & simple.
-feature2: add a new line
+
+Create a branch quick and simple. 
