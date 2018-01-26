@@ -9,4 +9,5 @@ adfa
 sdfas
 asdf
 
-user1 add a line in same file
+
+user1 fix bug "add a line" and push
