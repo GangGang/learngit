@@ -2,3 +2,5 @@
 
 
 Create a branch quick AND simple.
+master: add two line.
+master: add second line.
